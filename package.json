@@ -1,0 +1,24 @@
+{
+  "name": "ng2-semantic-ui",
+  "version": "1.0.0",
+  "description": "Semantic UI components for Angular2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harisb2012/ng2-semantic-ui.git"
+  },
+  "keywords": [
+    "angular2",
+    "semantic-ui",
+    "semantic"
+  ],
+  "author": "Haris Basic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harisb2012/ng2-semantic-ui/issues"
+  },
+  "homepage": "https://github.com/harisb2012/ng2-semantic-ui#readme"
+}
